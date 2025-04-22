@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Atelier5/src/main/java"/>
+	<classpathentry kind="lib" path="Atelier5/src/main/webapp/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/apache 9/apache-tomcat-9.0.98/lib/servlet-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://javaee.github.io/javaee-spec/javadocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="Atelier5/build/classes"/>
+</classpath>
